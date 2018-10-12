@@ -1,0 +1,6 @@
+LIBRARY vk
+
+EXPORTS
+
+InputString
+InputChar
